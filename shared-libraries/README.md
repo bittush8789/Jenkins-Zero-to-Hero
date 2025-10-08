@@ -15,6 +15,6 @@ Think of it like a library of books, Instead of buying the same book over and ov
 - Easy onboarding of new applications, projects or teams
 - One place to fix issues with the shared or common code
 - Code Maintainence 
-- Reduce the risk of errors
+- Reduce the risk of errors.
 
 ![Screenshot 2023-05-02 at 9 47 24 PM](https://user-images.githubusercontent.com/43399466/235724851-90a5cad6-ac0d-428b-9944-93fffea55180.png)
