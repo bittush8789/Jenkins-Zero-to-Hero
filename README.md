@@ -8,7 +8,7 @@ Are you looking forward to learn Jenkins right from Zero(installation) to Hero(B
 Pre-Requisites:
  - Java (JDK)
 
-### Run the below commands to install Java and Jenkins
+## Run the below commands to install Java and Jenkins
 
 Install Java
 
